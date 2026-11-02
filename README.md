@@ -7,17 +7,7 @@
 
 -Perform Exploratory Data Analysis (EDA) to explore product categories, availability, and pricing inconsistencies
 - Implement Data Cleaning to handle null values, remove invalid entries, and convert pricing from paise to rupees
-- Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more
-
----
-
-## 🔄 Project Workflow
-
-1. **Data modelling + EDA** in Jupyter Notebook
-2. **Feature engineering** – created new columns needed for analysis
-3. **Created a new PostgreSQL database** and connected Jupyter to it
-4. **Solved 10 business questions** in SQL
-5. **Connected the data to Power BI** → created measures → built KPIs and charts
+- Write business-driven SQL queries to derive insights around pricing, inventory, stock availability, revenue and more 
 
 ---
 
